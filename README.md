@@ -2,7 +2,7 @@
 
 > The front door to the 4MATR ecosystem.
 
-4MATR is an open ecosystem at the intersection of **finance, AI, and Education**.
+4MATR is an open ecosystem at the intersection of **Finance, AI, and Education**.
 
 This repository contains the landing page that brings the different parts of 4MATR Academy together in one place.
 
@@ -62,6 +62,4 @@ A private community for deeper discussion, collaboration and experimentation.
 ├── index.html
 ├── style.css
 ├── README.md
-│
-└── assets/
-    └── logo.png
+│── 4MATR Logo.png
