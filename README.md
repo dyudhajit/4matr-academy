@@ -2,23 +2,17 @@
 
 > The front door to the 4MATR ecosystem.
 
-4MATR is an open ecosystem at the intersection of **finance, technology and AI**.
+4MATR is an open ecosystem at the intersection of **finance, AI, and Education**.
 
-This repository contains the landing page that brings the different parts of 4MATR together in one place.
+This repository contains the landing page that brings the different parts of 4MATR Academy together in one place.
 
 ## What is 4MATR?
 
 4MATR exists to make finance more accessible, practical and intelligent.
 
-We learn.
+We learn. We build. We experiment. We share.
 
-We build.
-
-We experiment.
-
-We share.
-
-The ecosystem brings together education, financial modelling, AI experimentation, open-source resources, community and content.
+The ecosystem brings together education, financial modelling, AI experimentation, resources, community and content.
 
 ---
 
